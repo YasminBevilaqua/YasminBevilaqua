@@ -65,9 +65,12 @@
 
 ## 🌌 Constelação de Commits
 
+<br />
+
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a001a&title_color=C084FC&icon_color=E040FB&text_color=DDD6FE&ring_color=C084FC" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a001a&title_color=C084FC&text_color=DDD6FE" />
 
+<br />
 <br />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-username&theme=midnight-purple&hide_border=true&background=0a001a&stroke=C084FC&ring=E040FB&fire=E040FB&currStreakLabel=C084FC" />
@@ -78,8 +81,6 @@
 
 <div align="center">
 
-  <br />
-  
   ### 💜 "No universo infinito do código, cada componente é uma estrela, cada projeto uma galáxia."
   
   <br />
