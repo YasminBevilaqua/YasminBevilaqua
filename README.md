@@ -2,6 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=200&section=header&text=YASMIN%20BEVILÁQUA&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=🌌%20Front-End%20Dev%20•%20UI/UX%20•%20Creative%20Coder%20🌙&descAlignY=60&descSize=16&descColor=C084FC" />
 </div>
 
+<div align="center">
+  
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=500&lines=✨+Construindo+Experiências;🚀+Frontend+Developer;💫+Creative+UI+Starchitect;🌠+JavaScript+•+React+•+Next.js" />
 
 <br />
