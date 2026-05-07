@@ -6,7 +6,7 @@
 
 ### 🌌 Front-End Developer • UI/UX • Creative Coder 🌙
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=500&lines=✨+Construindo+Experiências+Cósmicas;🚀+Frontend+Developer+Intergaláctica;💫+Creative+UI+Starchitect;🌠+JavaScript+•+React+•+Next.js+•+Universo" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=500&lines=✨+Construindo+Experiências;🚀+Frontend+Developer;💫+Creative+UI+Starchitect;🌠+JavaScript+•+React+•+Next.js" />
 
 <br />
 
