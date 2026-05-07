@@ -1,143 +1,55 @@
-# 👩🏻‍💻 Yasmin Beviláqua
+<div align="center">
 
-**`Desenvolvedora Front-End`**
+# ✨ Yasmin Beviláqua
 
-Me chamo Yasmin, tenho 22 anos e sou desenvolvedora front-end. Graduanda em Análise e Desenvolvimento de Sistemas na FAMETRO, sou apaixonada por tecnologia e desenvolvimento web, sempre buscando criar experiências modernas, funcionais e criativas através do código.
+### Front-End Developer • UI Enthusiast • Creative Coder
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/yasmin-bevilaqua/">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=435&lines=Modern+Web+Experiences;Frontend+Developer;Creative+UI+Builder;JavaScript+%E2%80%A2+React+%E2%80%A2+Next.js" />
 
-<a href="https://www.instagram.com/bevilaquadev/">
-    <img 
-        alt="Instagram" 
-        title="Meu Instagram" 
-        src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    />
-</a>
-
-</p>
-
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 👩🏻‍💻 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
+* 🎓 Graduanda em **Análise e Desenvolvimento de Sistemas**
+* 🌎 Natural de Manaus - AM
+* 🎨 Apaixonada por interfaces modernas e experiências imersivas
+* ⚡ Desenvolvendo projetos com foco em performance, design e criatividade
+* 🚀 Criadora de projetos como **Spatialify** e **DeltaAnalytics**
 
-<img 
- align="left" 
- alt="Vite"
- title="Vite" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
-/>
+---
 
-<img 
- align="left" 
- alt="Vue.js"
- title="Vue.js" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
-/>
+## 🌐 Redes
 
-<img 
- align="left" 
- alt="Three.js"
- title="Three.js" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" 
-/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/yasmin-bevilaqua/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<img 
- align="left" 
- alt="Vercel"
- title="Vercel" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" 
-/>
+  <a href="https://www.instagram.com/bevilaquadev/">
+    <img src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+## ⚒️ Tecnologias
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<div align="center">
 
-<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,threejs,tailwind,git,github,vercel,python,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasminBevilaqua&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminBevilaqua&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
