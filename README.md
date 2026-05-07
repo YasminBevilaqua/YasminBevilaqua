@@ -40,7 +40,7 @@
 </div>
 
 <br />
---- 
+
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="28"> Sobre Mim!
@@ -66,21 +66,6 @@
 
 <div align="center">
 
-## 🌌 Constelação de Commits
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a001a&title_color=C084FC&icon_color=E040FB&text_color=DDD6FE&ring_color=C084FC" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a001a&title_color=C084FC&text_color=DDD6FE" />
-
-  <br />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-username&theme=midnight-purple&hide_border=true&background=0a001a&stroke=C084FC&ring=E040FB&fire=E040FB&currStreakLabel=C084FC" />
-
-</div>
-
-<br />
-
----
-
 <div align="center">
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -91,9 +76,7 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&gradientType=linear&bgColor=4B0082,8B008B,C71585,DA70D6,9400D3" />
   
-  <p>✨ Obrigada por cruzar minha órbita! Volte sempre, viajante ✨</p>
-  
-  <img src="https://komarev.com/ghpvc/?username=seu-username&color=C084FC&style=flat-square&label=👽+Visitantes+Cósmicos" />
+  <img src="https://komarev.com/ghpvc/?username=seu-username&color=C084FC&style=flat-square&label=👽+Visitantes" />
   
   <br />
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
