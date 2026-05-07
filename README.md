@@ -29,7 +29,18 @@
 <br />
 
 ---
+<div align="center">
 
+## Tech Stack
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,threejs,tailwind,git,github,vercel,python,vscode&theme=dark&perline=8" />
+
+</div>
+
+<br />
+--- 
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="28"> Sobre Mim!
@@ -46,20 +57,6 @@
 ⭐ **Criando universos digitais** com foco em performance e criatividade
 
 🚀 **Sempre buscando aprender**
-
-</div>
-
-<br />
-
----
-
-<div align="center">
-
-## Tech Stack
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,threejs,tailwind,git,github,vercel,python,vscode&theme=dark&perline=8" />
 
 </div>
 
