@@ -1,48 +1,50 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,23&height=200&section=header&text=Yasmin%20Beviláqua&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,19,20,21&height=200&section=header&text=✦%20YASMIN%20BEVILÁQUA%20✦&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white" />
 </div>
 
 <div align="center">
 
-### ✨ Front-End Developer • UI Enthusiast • Creative Coder
+### 🌌 Front-End Developer • UI Enthusiast • Creative Coder 🌙
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=480&lines=Building+Modern+Web+Experiences+%E2%9C%A8;Frontend+Developer+%F0%9F%92%BB;Creative+UI+Architect+%F0%9F%8E%A8;JavaScript+%E2%80%A2+React+%E2%80%A2+Next.js+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=500&lines=✨+Construindo+Experiências+Cósmicas;🚀+Frontend+Developer+Intergaláctica;💫+Creative+UI+Starchitect;🌠+JavaScript+•+React+•+Next.js+•+Universo" />
 
 <br />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Manaus%20•%20AM-BRAZIL-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌌_Missão-Frontend_Mágico-C084FC?style=for-the-badge&labelColor=1a0033" />
+  <img src="https://img.shields.io/badge/🪐_Base-Manaus_•_AM-C084FC?style=for-the-badge&labelColor=1a0033" />
+  <img src="https://img.shields.io/badge/⭐_Status-Explorando_o_Cosmos-C084FC?style=for-the-badge&labelColor=1a0033" />
 </div>
 
 <br />
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre mim
+---
+
+## <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="28"> Sobre a Exploradora Cósmica
 
 <div align="center">
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" />
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee8-4080-9770-78a4b7ece53f.gif" width="260" />
 </div>
 
 <p align="left">
+
+  🎓 **Graduanda em Análise e Desenvolvimento de Sistemas**
   
-  🎓 Graduanda em **Análise e Desenvolvimento de Sistemas**
+  🌎 **Natural de Manaus - AM** | Exploradora da Floresta Digital
   
-  🌎 Natural de **Manaus - AM** | Coração amazônico, mente digital
+  🎨 **Apaixonada por interfaces cósmicas** e experiências imersivas
   
-  🎨 Apaixonada por **interfaces modernas** e experiências imersivas
+  ⭐ **Criando universos digitais** com foco em performance e criatividade
   
-  ⚡ Desenvolvendo projetos com foco em **performance, design e criatividade**
+  🚀 **Criadora de projetos como Spatialify e DeltaAnalytics**
   
-  🚀 Criadora de projetos como **Spatialify** e **DeltaAnalytics**
-  
-  💜 Transformando ideias em código com café e boa música
+  💜 **Transformando stardust em código** — cada linha, uma nova galáxia
   
 </p>
 
@@ -50,50 +52,51 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Vamos nos conectar?
+## <img src="https://media.giphy.com/media/3o7btW1Q9SJqUZtdug/giphy.gif" width="30"> Rotas Intergalácticas
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=About.me&logoColor=white)](seu-portfolio)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](seu-discord)
+[![LinkedIn](https://img.shields.io/badge/✦_LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033)](https://linkedin.com/in/seu-usuario)
+[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-C084FC?style=for-the-badge&logo=starship&logoColor=white&labelColor=1a0033)](seu-portfolio)
+[![Gmail](https://img.shields.io/badge/✧_Gmail-DD4EDD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0033)](mailto:seu-email)
+[![Instagram](https://img.shields.io/badge/✶_Instagram-E040FB?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a0033)](https://instagram.com/seu-usuario)
+[![Discord](https://img.shields.io/badge/⋆_Discord-7C3AED?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a0033)](seu-discord)
 
 </div>
 
 ---
 
-## ⚒️ Stack Tecnológico
+## ⚒️ Arsenal Cósmico
 
 <div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-  ### Core
-  
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark&perline=6" />
+### 💫 Propulsores Principais
 
-  ### Extras & Ferramentas
-  
-  <img src="https://skillicons.dev/icons?i=vue,vite,threejs,tailwind,git,github,vercel,python,vscode&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark&perline=6" />
 
-  <br />
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  
+<br />
+
+### 🌠 Sistemas Estelares
+
+<img src="https://skillicons.dev/icons?i=vue,vite,threejs,tailwind,git,github,vercel,python,vscode&theme=dark&perline=9" />
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="80">
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🌌 Constelação de Commits
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a001a&title_color=C084FC&icon_color=E040FB&text_color=DDD6FE&ring_color=C084FC" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a001a&title_color=C084FC&text_color=DDD6FE" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-username&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-username&theme=midnight-purple&hide_border=true&background=0a001a&stroke=C084FC&ring=E040FB&fire=E040FB&currStreakLabel=C084FC" />
 </div>
 
 <br />
@@ -101,12 +104,19 @@
 ---
 
 <div align="center">
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
   
-  ### 💜 "Code is poetry, design is art, and I'm here to create both"
+  ### 💜 "No universo infinito do código, cada componente é uma estrela, cada projeto uma galáxia."
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,23&height=100&section=footer" />
+  <br />
   
-  <p>✨ Obrigada pela visita! Volte sempre ✨</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,19,20,21&height=100&section=footer" />
   
-  <img src="https://komarev.com/ghpvc/?username=seu-username&color=8B5CF6&style=flat-square&label=Profile+Views" />
+  <p>✨ Obrigada por cruzar minha órbita! Volte sempre, viajante ✨</p>
+  
+  <img src="https://komarev.com/ghpvc/?username=seu-username&color=C084FC&style=flat-square&label=👽+Visitantes+Cósmicos" />
+  
+  <br />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 </div>
