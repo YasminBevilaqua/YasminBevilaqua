@@ -50,8 +50,4 @@
 
 <br />
 
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=seu-username&color=C084FC&style=flat-square&label=👽+Visitantes" />
-
 </div>
