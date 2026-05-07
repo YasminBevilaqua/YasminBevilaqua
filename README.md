@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=200&section=header&text=YASMIN%20BEVILÁQUA&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=&descAlignY=60&descSize=16&descColor=C084FC" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=200&section=header&text=YASMIN%20BEVILÁQUA&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF" />
   
 </div>
 
@@ -17,10 +17,10 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/✦_LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033)]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/yasmin-bevilaqua/))
-[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-C084FC?style=for-the-badge&logo=starship&logoColor=white&labelColor=1a0033)]([seu-portfolio](https://yasminbevilaqua.github.io/portfolioyaya/))
+[![LinkedIn](https://img.shields.io/badge/✦_LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033)](https://www.linkedin.com/in/yasmin-bevilaqua/)
+[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-C084FC?style=for-the-badge&logo=starship&logoColor=white&labelColor=1a0033)](https://yasminbevilaqua.github.io/portfolioyaya/)
 [![Gmail](https://img.shields.io/badge/✧_Gmail-DD4EDD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0033)](mailto:seu-email)
-[![Instagram](https://img.shields.io/badge/✶_Instagram-E040FB?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a0033)]([https://instagram.com/seu-usuario](https://www.instagram.com/bevilaquadev/))
+[![Instagram](https://img.shields.io/badge/✶_Instagram-E040FB?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a0033)](https://www.instagram.com/bevilaquadev/)
 [![Discord](https://img.shields.io/badge/⋆_Discord-7C3AED?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a0033)](seu-discord)
 
 </div>
