@@ -34,7 +34,7 @@
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,threejs,tailwind,git,github,vercel,python,vscode&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,threejs,tailwind,git,github,vercel,python&theme=dark&perline=8" />
 
 </div>
 
