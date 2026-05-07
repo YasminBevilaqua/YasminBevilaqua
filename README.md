@@ -30,11 +30,13 @@
 
 <div align="center">
 
-## Tech Stack
+## 💫 Tech Stack
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,threejs,tailwind,git,github,vercel,python&theme=dark&perline=8" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,threejs,tailwind,git,github,vercel,python&theme=dark&perline=7" />
+</p>
 
 </div>
 
@@ -63,7 +65,6 @@
 
 <div align="center">
 
-  
   <img src="https://komarev.com/ghpvc/?username=seu-username&color=C084FC&style=flat-square&label=👽+Visitantes" />
 
 </div>
