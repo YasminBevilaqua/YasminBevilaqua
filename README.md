@@ -52,23 +52,17 @@
 
 ---
 
-## ⚒️ Tecnologias
+## Tech Stack
 
-### 💫 Propulsores Principais
+<br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark&perline=6" />
-
-<br />
-
-### 🌠 Sistemas Estelares
-
-<img src="https://skillicons.dev/icons?i=vue,vite,threejs,tailwind,git,github,vercel,python,vscode&theme=dark&perline=9" />
-
-<br />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="80">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,threejs,tailwind,git,github,vercel,python,vscode&theme=dark&perline=8" />
 
 </div>
+
+<br><br>
+
+<div align="center">
 
 ---
 
