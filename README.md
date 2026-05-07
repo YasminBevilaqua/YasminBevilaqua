@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-Me chamo Yasmin, tenho 22 anos e sou natural de Manaus. Graduanda em Análise e Desenvolvimento de Sistemas na FAMETRO, sou apaixonada por tecnologia e desenvolvimento web, sempre buscando criar experiências modernas, funcionais e criativas através do código.
+Me chamo Yasmin, tenho 22 anos e sou desenvolvedora front-end. Graduanda em Análise e Desenvolvimento de Sistemas na FAMETRO, sou apaixonada por tecnologia e desenvolvimento web, sempre buscando criar experiências modernas, funcionais e criativas através do código.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/yasmin-bevilaqua/">
@@ -18,14 +18,6 @@ Me chamo Yasmin, tenho 22 anos e sou natural de Manaus. Graduanda em Análise e 
         alt="Instagram" 
         title="Meu Instagram" 
         src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    />
-</a>
-
-<a href="https://github.com/YasminBevilaqua?tab=followers">
-    <img 
-        alt="Seguidores" 
-        title="Me siga no GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/followers/YasminBevilaqua?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     />
 </a>
 
