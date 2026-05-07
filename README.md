@@ -1,27 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=YASMIN%20BEVILÁQUA&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=FFFFFF&desc=✦%20Exploradora%20do%20Universo%20Digital%20✦&descAlignY=55&descSize=16&descColor=F5E6FF&gradientType=radial&bgColor=1a0033,4B0082,8B008B,C71585,9400D3" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=55&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=100&lines=✦+YASMIN+BEVILÁQUA+✦" />
 
-</div>
-
-<div align="center">
-
-### 🌌 Front-End Developer • UI Enthusiast • Creative Coder 🌙
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=520&lines=✨+Construindo+Experiências+Cósmicas;🚀+Frontend+Developer+Intergaláctica;💫+Creative+UI+Architect;🌠+JavaScript+•+React+•+Next.js;🪐+Explorando+Novas+Galáxias+de+Código" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=500&height=40&lines=✦+Exploradora+do+Universo+Digital+✦;🌌+Navegando+entre+galáxias+de+código+🌌" />
 
 <br />
+<br />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
 
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🌌_Missão-Frontend_Mágico-C084FC?style=for-the-badge&labelColor=1a0033" />
-  <img src="https://img.shields.io/badge/🪐_Base-Manaus_•_AM-C084FC?style=for-the-badge&labelColor=1a0033" />
-  <img src="https://img.shields.io/badge/⭐_Status-Explorando_o_Cosmos-C084FC?style=for-the-badge&labelColor=1a0033" />
+
+| ![Estrelas](https://img.shields.io/badge/🌌_Missão-Frontend_Mágico-C084FC?style=for-the-badge&labelColor=1a0033) | ![Planeta](https://img.shields.io/badge/🪐_Base-Manaus_•_AM-C084FC?style=for-the-badge&labelColor=1a0033) | ![Cometa](https://img.shields.io/badge/⭐_Status-Explorando_o_Cosmos-C084FC?style=for-the-badge&labelColor=1a0033) |
+|:---:|:---:|:---:|
+
 </div>
 
 <br />
