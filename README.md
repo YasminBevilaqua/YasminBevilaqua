@@ -16,8 +16,6 @@
 
 <br />
 
-## <img src="https://media.giphy.com/media/3o7btW1Q9SJqUZtdug/giphy.gif" width="30"> Redes Sociais
-
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/✦_LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033)](https://linkedin.com/in/seu-usuario)
