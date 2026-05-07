@@ -30,51 +30,54 @@
 
 ---
 
+<div align="center">
+
 ## <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="28"> Sobre Mim!
 
-<div align="center">
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee8-4080-9770-78a4b7ece53f.gif" width="260" />
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee8-4080-9770-78a4b7ece53f.gif" width="200" />
+
+<br />
+<br />
+
+🎓 **Graduanda em Análise e Desenvolvimento de Sistemas**
+
+🎨 **Apaixonada por interfaces** e experiências imersivas
+
+⭐ **Criando universos digitais** com foco em performance e criatividade
+
+🚀 **Sempre buscando aprender**
+
 </div>
 
-<p align="left">
-
-  🎓 **Graduanda em Análise e Desenvolvimento de Sistemas**
-  
-  🎨 **Apaixonada por interfaces** e experiências imersivas
-  
-  ⭐ **Criando universos digitais** com foco em performance e criatividade
-  
-  🚀 **Sempre buscando aprender**
-  
-</p>
-
-<br clear="both">
+<br />
 
 ---
 
+<div align="center">
+
 ## Tech Stack
 
-<br>
+<br />
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,threejs,tailwind,git,github,vercel,python,vscode&theme=dark&perline=8" />
 
 </div>
 
-<br><br>
-
-<div align="center">
+<br />
 
 ---
 
+<div align="center">
+
 ## 🌌 Constelação de Commits
 
-<div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a001a&title_color=C084FC&icon_color=E040FB&text_color=DDD6FE&ring_color=C084FC" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a001a&title_color=C084FC&text_color=DDD6FE" />
-</div>
 
-<div align="center">
+  <br />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-username&theme=midnight-purple&hide_border=true&background=0a001a&stroke=C084FC&ring=E040FB&fire=E040FB&currStreakLabel=C084FC" />
+
 </div>
 
 <br />
@@ -97,4 +100,5 @@
   
   <br />
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+
 </div>
