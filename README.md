@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## 👩🏻‍💻 Sobre mim
 
 * 🎓 Graduanda em **Análise e Desenvolvimento de Sistemas**
@@ -18,21 +16,15 @@
 * ⚡ Desenvolvendo projetos com foco em performance, design e criatividade
 * 🚀 Criadora de projetos como **Spatialify** e **DeltaAnalytics**
 
----
+<br>
 
 ## 🌐 Redes
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yasmin-bevilaqua/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://www.instagram.com/bevilaquadev/">
-    <img src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  ...
 </p>
 
----
+<br>
 
 ## ⚒️ Tecnologias
 
@@ -42,14 +34,10 @@
 
 </div>
 
----
+<br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasminBevilaqua&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminBevilaqua&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+...
