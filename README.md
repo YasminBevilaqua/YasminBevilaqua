@@ -30,7 +30,7 @@
 
 <div align="center">
 
-## 💫 Tech Stack
+### 💫 Tech Stack
 
 <br />
 
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="28"> Sobre Mim!
+### <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="28"> Sobre Mim!
 
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee8-4080-9770-78a4b7ece53f.gif" width="200" />
 
