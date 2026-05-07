@@ -35,7 +35,15 @@
 <br />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,threejs,tailwind,git,github,vercel,python&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,vite,threejs,tailwind,git&theme=dark&perline=5" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,vercel,python&theme=dark&perline=3" />
 </p>
 
 </div>
