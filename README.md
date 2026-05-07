@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 🌌 Front-End Developer • UI Enthusiast • Creative Coder 🌙
+### 🌌 Front-End Developer • UI/UX • Creative Coder 🌙
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=500&lines=✨+Construindo+Experiências+Cósmicas;🚀+Frontend+Developer+Intergaláctica;💫+Creative+UI+Starchitect;🌠+JavaScript+•+React+•+Next.js+•+Universo" />
 
@@ -16,10 +16,16 @@
 
 <br />
 
+## <img src="https://media.giphy.com/media/3o7btW1Q9SJqUZtdug/giphy.gif" width="30"> Redes Sociais
+
 <div align="center">
-  <img src="https://img.shields.io/badge/🌌_Missão-Frontend_Mágico-C084FC?style=for-the-badge&labelColor=1a0033" />
-  <img src="https://img.shields.io/badge/🪐_Base-Manaus_•_AM-C084FC?style=for-the-badge&labelColor=1a0033" />
-  <img src="https://img.shields.io/badge/⭐_Status-Explorando_o_Cosmos-C084FC?style=for-the-badge&labelColor=1a0033" />
+  
+[![LinkedIn](https://img.shields.io/badge/✦_LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033)](https://linkedin.com/in/seu-usuario)
+[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-C084FC?style=for-the-badge&logo=starship&logoColor=white&labelColor=1a0033)](seu-portfolio)
+[![Gmail](https://img.shields.io/badge/✧_Gmail-DD4EDD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0033)](mailto:seu-email)
+[![Instagram](https://img.shields.io/badge/✶_Instagram-E040FB?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a0033)](https://instagram.com/seu-usuario)
+[![Discord](https://img.shields.io/badge/⋆_Discord-7C3AED?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a0033)](seu-discord)
+
 </div>
 
 <br />
@@ -36,33 +42,15 @@
 
   🎓 **Graduanda em Análise e Desenvolvimento de Sistemas**
   
-  🌎 **Natural de Manaus - AM** | Exploradora da Floresta Digital
-  
-  🎨 **Apaixonada por interfaces cósmicas** e experiências imersivas
+  🎨 **Apaixonada por interfaces** e experiências imersivas
   
   ⭐ **Criando universos digitais** com foco em performance e criatividade
   
-  🚀 **Criadora de projetos como Spatialify e DeltaAnalytics**
-  
-  💜 **Transformando stardust em código** — cada linha, uma nova galáxia
+  🚀 **Sempre buscando aprender**
   
 </p>
 
 <br clear="both">
-
----
-
-## <img src="https://media.giphy.com/media/3o7btW1Q9SJqUZtdug/giphy.gif" width="30"> Rotas Intergalácticas
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/✦_LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033)](https://linkedin.com/in/seu-usuario)
-[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-C084FC?style=for-the-badge&logo=starship&logoColor=white&labelColor=1a0033)](seu-portfolio)
-[![Gmail](https://img.shields.io/badge/✧_Gmail-DD4EDD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0033)](mailto:seu-email)
-[![Instagram](https://img.shields.io/badge/✶_Instagram-E040FB?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a0033)](https://instagram.com/seu-usuario)
-[![Discord](https://img.shields.io/badge/⋆_Discord-7C3AED?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a0033)](seu-discord)
-
-</div>
 
 ---
 
