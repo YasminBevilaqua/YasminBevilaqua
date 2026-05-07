@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,19,20,21&height=200&section=header&text=YASMIN%20BEVILÁQUA&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=YASMIN%20BEVILÁQUA&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&gradientType=linear&bgColor=4B0082,8B008B,C71585,DA70D6,9400D3" />
 </div>
 
 <div align="center">
@@ -111,7 +111,7 @@
   
   <br />
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,19,20,21&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&gradientType=linear&bgColor=4B0082,8B008B,C71585,DA70D6,9400D3" />
   
   <p>✨ Obrigada por cruzar minha órbita! Volte sempre, viajante ✨</p>
   
