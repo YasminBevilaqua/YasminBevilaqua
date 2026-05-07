@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,19,20,21&height=200&section=header&text=✦%20YASMIN%20BEVILÁQUA%20✦&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,19,20,21&height=200&section=header&text=YASMIN%20BEVILÁQUA&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF" />
 </div>
 
 <div align="center">
