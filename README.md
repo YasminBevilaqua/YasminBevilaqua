@@ -52,26 +52,6 @@
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="28"> Sobre Mim!
-
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee8-4080-9770-78a4b7ece53f.gif" width="200" />
-
-<br />
-
-🎓 **Graduanda em Análise e Desenvolvimento de Sistemas**
-
-🎨 **Apaixonada por interfaces** e experiências imersivas
-
-⭐ **Criando universos digitais** com foco em performance e criatividade
-
-🚀 **Sempre buscando aprender**
-
-</div>
-
-<br />
-
-<div align="center">
-
   <img src="https://komarev.com/ghpvc/?username=seu-username&color=C084FC&style=flat-square&label=👽+Visitantes" />
 
 </div>
