@@ -1,65 +1,93 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=YASMIN%20BEVILÁQUA&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&gradientType=linear&bgColor=4B0082,8B008B,C71585,DA70D6,9400D3" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:3B82F6&height=200&section=header&text=Yasmin%20Beviláqua&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<div align="center">
 
-<br>
+### 🌌 Front-End Developer • UI/UX • Creative Coder 🌙
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=650&lines=Frontend+Developer;Modern+Web+Experiences;React+•+Next.js+•+TypeScript;Creative+UI+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=500&lines=✨+Construindo+Experiências+Cósmicas;🚀+Frontend+Developer+Intergaláctica;💫+Creative+UI+Starchitect;🌠+JavaScript+•+React+•+Next.js+•+Universo" />
 
-<br><br>
+<br />
 
-<a href="https://www.linkedin.com/in/yasmin-bevilaqua/">
-    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827"/>
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 
-<a href="https://www.instagram.com/bevilaquadev/">
-    <img src="https://img.shields.io/badge/Instagram-A855F7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111827"/>
-</a>
+</div>
 
-<a href="https://github.com/YasminBevilaqua">
-    <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"/>
-</a>
+<br />
 
-<br><br>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/✦_LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033)](https://linkedin.com/in/seu-usuario)
+[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-C084FC?style=for-the-badge&logo=starship&logoColor=white&labelColor=1a0033)](seu-portfolio)
+[![Gmail](https://img.shields.io/badge/✧_Gmail-DD4EDD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0033)](mailto:seu-email)
+[![Instagram](https://img.shields.io/badge/✶_Instagram-E040FB?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a0033)](https://instagram.com/seu-usuario)
+[![Discord](https://img.shields.io/badge/⋆_Discord-7C3AED?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a0033)](seu-discord)
 
-<p align="center" width="700px">
+</div>
 
-Desenvolvedora front-end apaixonada por criar interfaces modernas,
-experiências imersivas e produtos digitais criativos.
+<br />
 
-</p>
-
-<br>
+<div align="center">
 
 ## Tech Stack
 
-<br>
+<br />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,threejs,tailwind,git,github,vercel,python,vscode&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,threejs,tailwind,git,github,vercel,python,vscode&theme=dark&perline=8" />
 
-<br><br>
+</div>
 
-## Sobre Mim
+<br />
 
-<br>
+<div align="center">
 
-🎓 Graduanda em Análise e Desenvolvimento de Sistemas
-🎨 Apaixonada por interfaces e experiências interativas
-⭐ Criando projetos focados em performance e criatividade
-🚀 Sempre explorando novas tecnologias
+## <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="28"> Sobre Mim!
 
-<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee8-4080-9770-78a4b7ece53f.gif" width="200" />
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YasminBevilaqua&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<br />
+<br />
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminBevilaqua&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+🎓 **Graduanda em Análise e Desenvolvimento de Sistemas**
 
-<br><br>
+🎨 **Apaixonada por interfaces** e experiências imersivas
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YasminBevilaqua&theme=tokyonight&hide_border=true&background=00000000"/>
+⭐ **Criando universos digitais** com foco em performance e criatividade
 
-<br><br>
+🚀 **Sempre buscando aprender**
 
-<img src="https://komarev.com/ghpvc/?username=YasminBevilaqua&color=A855F7&style=for-the-badge&label=VISITORS"/>
+</div>
+
+<br />
+
+<div align="center">
+
+## 🌌 Constelação de Commits
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a001a&title_color=C084FC&icon_color=E040FB&text_color=DDD6FE&ring_color=C084FC" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a001a&title_color=C084FC&text_color=DDD6FE" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-username&theme=midnight-purple&hide_border=true&background=0a001a&stroke=C084FC&ring=E040FB&fire=E040FB&currStreakLabel=C084FC" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <br />
+  
+  ### 💜 "No universo infinito do código, cada componente é uma estrela, cada projeto uma galáxia."
+  
+  <br />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&gradientType=linear&bgColor=4B0082,8B008B,C71585,DA70D6,9400D3" />
+  
+  <p>✨ Obrigada por cruzar minha órbita! Volte sempre, viajante ✨</p>
+  
+  <img src="https://komarev.com/ghpvc/?username=seu-username&color=C084FC&style=flat-square&label=👽+Visitantes" />
 
 </div>
